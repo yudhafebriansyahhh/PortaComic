@@ -1,45 +1,65 @@
-{
-  "_version": "manga.json V1.0 Rev 0",
-  "manga_id": "PRJ-ADPR-001",
-  "title": "A Dragonslayer's Peerless Regression",
-  "alternative_title": "용살자의 클래스가 다른 회귀",
-  "status": "Ongoing",
-  "author": "Hectopascal",
-  "artist": "Hectopascal",
-  "genres": [
-    "Action",
-    "Fantasy",
-    "Regression",
-    "System",
-    "Shounen"
-  ],
-  "type": "Manhwa",
-  "release_year": 2024,
-  "rating": 4.8,
-  "synopsis": "Zeke Draker, keturunan langsung pertama dari keluarga Dragon Slayer yang gagal melakukan awakening. Memiliki bakat sebagai Healer alih-alih seorang pendekar pedang, ia dibuang oleh keluarganya. Berjuang mati-matian untuk menjadi lebih kuat, Zeke menemui akhir yang tragis. Pada saat kematiannya, sebuah teks misterius muncul: [Jiwa Elder Dragon terukir pada tekad dia yang bertahan.] Ketika dia sadar kembali, dia mendapati dirinya kembali ke keluarga yang telah membuangnya, 20 tahun di masa lalu. Berbekal kekuatan abadi yang baru ditemukan, legenda Dragon Slayer kelas atas dimulai.",
-  "cover_url": "https://raw.githubusercontent.com/UsernameTujuan/PortaComic-Assets/main/manga/adpr/cover.webp",
-  "chapters": [
-    {
-      "chapter_number": 1,
-      "chapter_title": "The Healer's Demise",
-      "images": [
-        "https://raw.githubusercontent.com/UsernameTujuan/PortaComic-Assets/main/manga/adpr/ch01/001.webp",
-        "https://raw.githubusercontent.com/UsernameTujuan/PortaComic-Assets/main/manga/adpr/ch01/002.webp",
-        "https://raw.githubusercontent.com/UsernameTujuan/PortaComic-Assets/main/manga/adpr/ch01/003.webp",
-        "https://raw.githubusercontent.com/UsernameTujuan/PortaComic-Assets/main/manga/adpr/ch01/004.webp",
-        "https://raw.githubusercontent.com/UsernameTujuan/PortaComic-Assets/main/manga/adpr/ch01/005.webp"
-      ]
-    },
-    {
-      "chapter_number": 2,
-      "chapter_title": "Regression and Awakening",
-      "images": [
-        "https://raw.githubusercontent.com/UsernameTujuan/PortaComic-Assets/main/manga/adpr/ch02/001.webp",
-        "https://raw.githubusercontent.com/UsernameTujuan/PortaComic-Assets/main/manga/adpr/ch02/002.webp",
-        "https://raw.githubusercontent.com/UsernameTujuan/PortaComic-Assets/main/manga/adpr/ch02/003.webp",
-        "https://raw.githubusercontent.com/UsernameTujuan/PortaComic-Assets/main/manga/adpr/ch02/004.webp",
-        "https://raw.githubusercontent.com/UsernameTujuan/PortaComic-Assets/main/manga/adpr/ch02/005.webp"
-      ]
-    }
-  ]
-}
+[
+  {
+    "id": "a-cadet-becomes-a-prophet",
+    "title": "A Cadet Becomes a Prophet",
+    "desc": "Sinopsis otomatis dibuat oleh sistem PortaComic.",
+    "cover": "https://raw.githubusercontent.com/yudhafebriansyahhh/PortaComic/main/Action/cover.webp",
+    "cbz_url": "https://raw.githubusercontent.com/yudhafebriansyahhh/PortaComic/main/Action/A%20Cadet%20Becomes%20a%20Prophet.cbz"
+  },
+  {
+    "id": "academy_s-genius-swordmaster",
+    "title": "Academy s Genius Swordmaster",
+    "desc": "Sinopsis otomatis dibuat oleh sistem PortaComic.",
+    "cover": "https://raw.githubusercontent.com/yudhafebriansyahhh/PortaComic/main/Action/cover.webp",
+    "cbz_url": "https://raw.githubusercontent.com/yudhafebriansyahhh/PortaComic/main/Action/Academy_s%20Genius%20Swordmaster.cbz"
+  },
+  {
+    "id": "children-of-the-rune",
+    "title": "Children of the Rune",
+    "desc": "Sinopsis otomatis dibuat oleh sistem PortaComic.",
+    "cover": "https://raw.githubusercontent.com/yudhafebriansyahhh/PortaComic/main/Action/cover.webp",
+    "cbz_url": "https://raw.githubusercontent.com/yudhafebriansyahhh/PortaComic/main/Action/Children%20of%20the%20Rune.cbz"
+  },
+  {
+    "id": "chronicles-of-the-martial-god_s-return",
+    "title": "Chronicles Of The Martial God s Return",
+    "desc": "Sinopsis otomatis dibuat oleh sistem PortaComic.",
+    "cover": "https://raw.githubusercontent.com/yudhafebriansyahhh/PortaComic/main/Horror/cover.webp",
+    "cbz_url": "https://raw.githubusercontent.com/yudhafebriansyahhh/PortaComic/main/Horror/Chronicles%20Of%20The%20Martial%20God_s%20Return.cbz"
+  },
+  {
+    "id": "crimson-reset",
+    "title": "Crimson Reset",
+    "desc": "Sinopsis otomatis dibuat oleh sistem PortaComic.",
+    "cover": "https://raw.githubusercontent.com/yudhafebriansyahhh/PortaComic/main/Horror/cover.webp",
+    "cbz_url": "https://raw.githubusercontent.com/yudhafebriansyahhh/PortaComic/main/Horror/Crimson%20Reset.cbz"
+  },
+  {
+    "id": "echoes-of-the-reverse-planet",
+    "title": "Echoes of the Reverse Planet",
+    "desc": "Sinopsis otomatis dibuat oleh sistem PortaComic.",
+    "cover": "https://raw.githubusercontent.com/yudhafebriansyahhh/PortaComic/main/Horror/cover.webp",
+    "cbz_url": "https://raw.githubusercontent.com/yudhafebriansyahhh/PortaComic/main/Horror/Echoes%20of%20the%20Reverse%20Planet.cbz"
+  },
+  {
+    "id": "genius-prismatic-mage",
+    "title": "Genius Prismatic Mage",
+    "desc": "Sinopsis otomatis dibuat oleh sistem PortaComic.",
+    "cover": "https://raw.githubusercontent.com/yudhafebriansyahhh/PortaComic/main/Romance/cover.webp",
+    "cbz_url": "https://raw.githubusercontent.com/yudhafebriansyahhh/PortaComic/main/Romance/Genius%20Prismatic%20Mage.cbz"
+  },
+  {
+    "id": "i-am-the-fated-villain",
+    "title": "I Am the Fated Villain",
+    "desc": "Sinopsis otomatis dibuat oleh sistem PortaComic.",
+    "cover": "https://raw.githubusercontent.com/yudhafebriansyahhh/PortaComic/main/Romance/cover.webp",
+    "cbz_url": "https://raw.githubusercontent.com/yudhafebriansyahhh/PortaComic/main/Romance/I%20Am%20the%20Fated%20Villain.cbz"
+  },
+  {
+    "id": "i-killed-an-academy-player",
+    "title": "I Killed an Academy Player",
+    "desc": "Sinopsis otomatis dibuat oleh sistem PortaComic.",
+    "cover": "https://raw.githubusercontent.com/yudhafebriansyahhh/PortaComic/main/Romance/cover.webp",
+    "cbz_url": "https://raw.githubusercontent.com/yudhafebriansyahhh/PortaComic/main/Romance/I%20Killed%20an%20Academy%20Player.cbz"
+  }
+]
