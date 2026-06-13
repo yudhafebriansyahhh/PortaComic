@@ -1,65 +1,26 @@
 [
   {
-    "id": "a-cadet-becomes-a-prophet",
-    "title": "A Cadet Becomes a Prophet",
-    "desc": "Sinopsis otomatis dibuat oleh sistem PortaComic.",
-    "cover": "https://raw.githubusercontent.com/yudhafebriansyahhh/PortaComic/main/Action/cover.webp",
-    "cbz_url": "https://raw.githubusercontent.com/yudhafebriansyahhh/PortaComic/main/Action/A%20Cadet%20Becomes%20a%20Prophet.cbz"
+    "id": "A Cadet Becomes a Prophet",
+    "title": "A Cadet Becomes A Prophet",
+    "desc": "Sinopsis otomatis rilis untuk seri komik modern PortaComic.",
+    "cover": "https://raw.githubusercontent.com/yudhafebriansyahhh/PortaComic/main/Action/A%20Cadet%20Becomes%20a%20Prophet/cover.webp",
+    "banner": "https://raw.githubusercontent.com/yudhafebriansyahhh/PortaComic/main/Action/A%20Cadet%20Becomes%20a%20Prophet/banner.jpg",
+    "cbz_url": "https://raw.githubusercontent.com/yudhafebriansyahhh/PortaComic/main/Action/A%20Cadet%20Becomes%20a%20Prophet/ch01.cbz"
   },
   {
-    "id": "academy_s-genius-swordmaster",
-    "title": "Academy s Genius Swordmaster",
-    "desc": "Sinopsis otomatis dibuat oleh sistem PortaComic.",
-    "cover": "https://raw.githubusercontent.com/yudhafebriansyahhh/PortaComic/main/Action/cover.webp",
-    "cbz_url": "https://raw.githubusercontent.com/yudhafebriansyahhh/PortaComic/main/Action/Academy_s%20Genius%20Swordmaster.cbz"
+    "id": "Academy's Genius Swordmaster",
+    "title": "Academy'S Genius Swordmaster",
+    "desc": "Sinopsis otomatis rilis untuk seri komik modern PortaComic.",
+    "cover": "https://raw.githubusercontent.com/yudhafebriansyahhh/PortaComic/main/Action/Academy's%20Genius%20Swordmaster/cover.webp",
+    "banner": "https://raw.githubusercontent.com/yudhafebriansyahhh/PortaComic/main/Action/Academy's%20Genius%20Swordmaster/banner.webp",
+    "cbz_url": "https://raw.githubusercontent.com/yudhafebriansyahhh/PortaComic/main/Action/Academy's%20Genius%20Swordmaster/ch01.cbz"
   },
   {
-    "id": "children-of-the-rune",
-    "title": "Children of the Rune",
-    "desc": "Sinopsis otomatis dibuat oleh sistem PortaComic.",
-    "cover": "https://raw.githubusercontent.com/yudhafebriansyahhh/PortaComic/main/Action/cover.webp",
-    "cbz_url": "https://raw.githubusercontent.com/yudhafebriansyahhh/PortaComic/main/Action/Children%20of%20the%20Rune.cbz"
-  },
-  {
-    "id": "chronicles-of-the-martial-god_s-return",
-    "title": "Chronicles Of The Martial God s Return",
-    "desc": "Sinopsis otomatis dibuat oleh sistem PortaComic.",
-    "cover": "https://raw.githubusercontent.com/yudhafebriansyahhh/PortaComic/main/Horror/cover.webp",
-    "cbz_url": "https://raw.githubusercontent.com/yudhafebriansyahhh/PortaComic/main/Horror/Chronicles%20Of%20The%20Martial%20God_s%20Return.cbz"
-  },
-  {
-    "id": "crimson-reset",
-    "title": "Crimson Reset",
-    "desc": "Sinopsis otomatis dibuat oleh sistem PortaComic.",
-    "cover": "https://raw.githubusercontent.com/yudhafebriansyahhh/PortaComic/main/Horror/cover.webp",
-    "cbz_url": "https://raw.githubusercontent.com/yudhafebriansyahhh/PortaComic/main/Horror/Crimson%20Reset.cbz"
-  },
-  {
-    "id": "echoes-of-the-reverse-planet",
-    "title": "Echoes of the Reverse Planet",
-    "desc": "Sinopsis otomatis dibuat oleh sistem PortaComic.",
-    "cover": "https://raw.githubusercontent.com/yudhafebriansyahhh/PortaComic/main/Horror/cover.webp",
-    "cbz_url": "https://raw.githubusercontent.com/yudhafebriansyahhh/PortaComic/main/Horror/Echoes%20of%20the%20Reverse%20Planet.cbz"
-  },
-  {
-    "id": "genius-prismatic-mage",
-    "title": "Genius Prismatic Mage",
-    "desc": "Sinopsis otomatis dibuat oleh sistem PortaComic.",
-    "cover": "https://raw.githubusercontent.com/yudhafebriansyahhh/PortaComic/main/Romance/cover.webp",
-    "cbz_url": "https://raw.githubusercontent.com/yudhafebriansyahhh/PortaComic/main/Romance/Genius%20Prismatic%20Mage.cbz"
-  },
-  {
-    "id": "i-am-the-fated-villain",
-    "title": "I Am the Fated Villain",
-    "desc": "Sinopsis otomatis dibuat oleh sistem PortaComic.",
-    "cover": "https://raw.githubusercontent.com/yudhafebriansyahhh/PortaComic/main/Romance/cover.webp",
-    "cbz_url": "https://raw.githubusercontent.com/yudhafebriansyahhh/PortaComic/main/Romance/I%20Am%20the%20Fated%20Villain.cbz"
-  },
-  {
-    "id": "i-killed-an-academy-player",
-    "title": "I Killed an Academy Player",
-    "desc": "Sinopsis otomatis dibuat oleh sistem PortaComic.",
-    "cover": "https://raw.githubusercontent.com/yudhafebriansyahhh/PortaComic/main/Romance/cover.webp",
-    "cbz_url": "https://raw.githubusercontent.com/yudhafebriansyahhh/PortaComic/main/Romance/I%20Killed%20an%20Academy%20Player.cbz"
+    "id": "Children of the Rune",
+    "title": "Children Of The Rune",
+    "desc": "Sinopsis otomatis rilis untuk seri komik modern PortaComic.",
+    "cover": "https://raw.githubusercontent.com/yudhafebriansyahhh/PortaComic/main/Action/Children%20of%20the%20Rune/cover.webp",
+    "banner": "https://raw.githubusercontent.com/yudhafebriansyahhh/PortaComic/main/Action/Children%20of%20the%20Rune/banner.webp",
+    "cbz_url": "https://raw.githubusercontent.com/yudhafebriansyahhh/PortaComic/main/Action/Children%20of%20the%20Rune/ch01.cbz"
   }
 ]
